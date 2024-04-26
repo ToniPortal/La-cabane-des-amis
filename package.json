@@ -1,0 +1,29 @@
+{
+  "name": "lacabanedesamis",
+  "version": "1.0.0",
+  "description": "playtimeapibotdiscord",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToniPortal/La-Cabane-des-amis.git"
+  },
+  "keywords": [
+    "bot",
+    "discord.js",
+    "discordjs",
+    "botdiscord",
+    "discordbotjs"
+  ],
+  "author": "ToniPortal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ToniPortal/La-Cabane-des-amis/issues"
+  },
+  "homepage": "https://github.com/ToniPortal/La-Cabane-des-amis#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
